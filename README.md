@@ -6,7 +6,7 @@
 
 The Secure File Transfer App is designed to provide a secure and efficient method for transferring files. Users can upload files, set a time for their availability, and then securely send a URL to the file via an SMTP server. The architecture is built to ensure the security and integrity of the file and the credentials used. 
 
-[high level view](https://github.com/huddaannaa/Secure-File-Transfer-App/blob/main/secure_file.jpg)
+![high level view](https://github.com/huddaannaa/Secure-File-Transfer-App/blob/main/secure_file.jpg)
 #### Components
 
 1. **Frontend**
