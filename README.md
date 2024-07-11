@@ -140,5 +140,3 @@ The Secure File Transfer App is designed to provide a secure and efficient metho
 
 4. **Advanced Scheduling**
     - Provide more advanced scheduling options for sending file URLs, including recurring schedules and timezone support.
-
----
